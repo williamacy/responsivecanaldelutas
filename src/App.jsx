@@ -8,12 +8,13 @@ import Bannerphrase from "./components/bannerphrase/bannerphrase";
 import Modalities from "./components/modalities/modalities";
 import Contact from "./components/contact/contact";
 import Location from "./components/location/location";
-// import NavigationMenuDemo from "./components/navigation/navbar";
+import Header from "./components/Header/Header";
+
 
 function App (){
   return(
     <div className="App">
-      {/* <NavigationMenuDemo /> */}
+      <Header />
       <Hero />
       <History />
       <Founderbanner />
