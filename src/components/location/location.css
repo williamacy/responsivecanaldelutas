@@ -1,0 +1,11 @@
+.location-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 50rem;
+    margin-top: 50px;
+    margin: 0 auto;
+  }
+  
