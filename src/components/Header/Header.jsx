@@ -21,6 +21,7 @@ const Header = () => {
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
+        zIndex: '9999'
         }}
         onClick={() => {
           window.open(`https://api.whatsapp.com/send?phone=${phoneNumber}&text=Olá!Queria mais informações sobre a academia.`, '_blank');
