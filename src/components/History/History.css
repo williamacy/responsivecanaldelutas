@@ -24,6 +24,8 @@
     margin-bottom: 1rem;
     padding: 10rem;
   }
+
+
   
   .TabsList {
     flex-shrink: 0;
@@ -44,50 +46,62 @@
     line-height: 1;
     color: black;
     user-select: none;
+    font-weight: bolder;
   }
+
+
+ 
   
-  /* .TabsTrigger:first-child {
+  .TabsTrigger:first-child {
     border-top-left-radius: 6px;
   }
   
   .TabsTrigger:last-child {
     border-top-right-radius: 6px;
   }
-  */
+ 
   .TabsTrigger:hover {
     color: blue;
     cursor: pointer;
-  } */
+  } 
+  .TabsTrigger.active {
+    background-color: var(--mauve11);
+    color: white;
+  }
   
-  /* /* .TabsTrigger[data-state='active'] {
-    color: blue;
+  .TabsTrigger:not(.active):hover {
+    background-color: var(--mauve6);
+    cursor: pointer;
+  }
+  
+  
+  /* .TabsTrigger[data-state='active'] {
+    color: rgb(236, 22, 22);
     box-shadow: inset 0 -1px 0 0 currentColor, 0 1px 0 0 currentColor;
   } */
   
   /* .TabsTrigger:focus {
     position: relative;
-    box-shadow: 0 0 0 2px black;
-  } */ */
+    box-shadow: 0 0 0 2px rgb(0, 0, 0);
+  }  */
   
   .TabsContent {
-    padding: 20px;
     background-color: transparent;
-    border-bottom-left-radius: 6px;
-    border-bottom-right-radius: 6px;
     outline: none;
-    height: 30em; /* altura inicial */
     justify-content: center;
     align-items: center;
-    border-radius: 1rem;
+    margin-bottom: 30rem !important;
+    width: 100%;
+    height: 20rem; /* altura inicial */
   }
   
 
   
   
-  .TabsContent:focus {
+  /* .TabsContent:focus {
     box-shadow: 0 0 0 2px black;
   }
-  
+   */
   .Text {
     margin-top: 0;
     margin-bottom: 20px;

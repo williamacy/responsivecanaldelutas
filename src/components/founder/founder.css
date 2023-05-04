@@ -60,9 +60,12 @@ html {
 
 
 .container {
+
   max-width: 124rem;
+  max-height: 400rem !important;
   padding: 4rem 1rem;
   margin: 0 auto;
+  margin-bottom: 4rem;
 }
 
 .heading {
@@ -104,11 +107,13 @@ html {
   align-items: center;
   justify-content: center;
   background-color: rgb(33 33 93);
-  border: 1rem solid rgb(90 109 125);
+  border: 1rem solid rgb(33 33 93);
+  /* border: 1rem solid rgb(90 109 125); */
   border-radius: 5px;
   padding: 1px;
   box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
-  max-height: 150rem !important;
+  max-height: 170rem !important;
+  width: 34rem !important;
   }
   
   .card img {
@@ -132,7 +137,7 @@ html {
   color: #ffffff;
   }
 
-  ul.terapias-do-voinho {
+  /* ul.terapias-do-voinho {
     color: #fdfdfd;
     font-size: 14px;
     text-align: center;
@@ -159,7 +164,7 @@ html {
     align-items: center;
     position: relative;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  }
+  } */
 
   
   
@@ -240,6 +245,9 @@ html {
     }
   }
   
+  .card{
+    margin-left: -2rem;
+  }
 
 .swiper-slide img {
   width: 100%;
