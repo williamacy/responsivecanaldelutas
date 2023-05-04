@@ -19,7 +19,7 @@ const Hero = () => {
                         padding: "1rem"
                     }}>
                 Studio
-                Canal de Lutas
+                Canal Lutas
                 </h1>
             </div>
                 {/* o flexColStart que esta sendo chamado na div 
