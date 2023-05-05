@@ -11,7 +11,7 @@ const ManualTherapy = () => {
 
   return (
     <div className="manual-therapy-container">
-      <h2>Terapia Manual</h2>
+      <h2>Terapias Manuais</h2>
       <h3 className="transparent-bg">Clique na terapia e agende com a gente</h3>
       <ul>
         <li className="transparent-bg">

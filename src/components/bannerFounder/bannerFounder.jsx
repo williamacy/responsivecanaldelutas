@@ -6,8 +6,8 @@ const Founderbanner = () => {
         <div className="Programs" id="programs">
             {/* header o cabeçalho dos planos */}
             {/* explore nossas modalidades */}
-            <div className="programs-header">
-                <span className="stroke-text">
+            <div className="programs-header2">
+                <span className="phraseall">
                     Venha treinar na melhor academia de artes marciais da cidade.
                 </span>
             </div>

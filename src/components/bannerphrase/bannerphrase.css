@@ -6,7 +6,7 @@
     background-color: rgb(33 33 93);
 }
 
-.programs-header{
+.programs-header2{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,7 +19,11 @@
     height: 50%;
     padding: 2.5rem;
     margin-top: 0.5rem !important;
+    font-family: 'Bruno Ace', cursive !important;
 }
+.phraseall {
+    font-family: 'Bruno Ace', cursive !important;
+  }
 
 .programs-categories{
     display: flex;

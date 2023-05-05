@@ -6,7 +6,7 @@ const Bannerphrase = () => {
         <div className="Programs" id="programs" style={{ marginTop: "3rem" }}>
             {/* header o cabeçalho dos planos */}
             {/* explore nossas modalidades */}
-            <div className="programs-header" 
+            <div className="programs-header2" 
             // style={{ display: "flex", 
             // justifyContent: "center", 
             // alignItems: "center", 
@@ -14,7 +14,7 @@ const Bannerphrase = () => {
             // textAlign: "center",
             // gap: '2.5rem' }}
             >
-                <span className="stroke-text">
+                <span className="phraseall">
                     Te ajudaremos a superar os limites físicos e mentais.
                 </span>
                
