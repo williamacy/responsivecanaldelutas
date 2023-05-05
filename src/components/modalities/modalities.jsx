@@ -35,6 +35,7 @@ function Modalities() {
           <Tab className='tab'>Muay Thay</Tab>
           <Tab className='tab'>Funcional Fight</Tab>
           <Tab className='tab'>Preparação Física</Tab>
+          {/* <Tab className='tab'>Tratamentos</Tab> */}
         </TabList>
         <TabPanels>
             {/* jiujitsu */}

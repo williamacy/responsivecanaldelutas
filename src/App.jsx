@@ -11,6 +11,7 @@ import Location from "./components/location/location";
 import Footer from './components/footer/footer';
 import Header from "./components/Header/Header";
 import Navbar from "./components/navBarMenu/NavBarMenu";
+import ManualTherapy from './components/ManualTherapy/ManualTherapy';
 import { Link } from 'react-scroll';
 
 
@@ -37,6 +38,9 @@ function App() {
       <div style={{ display: 'flex', flexDirection: 'column' }}>
         <section id="modalities">
           <Modalities />
+        </section>
+        <section id="manualTherapy">
+          <ManualTherapy />
         </section>
         <section id="Bannerphrase">
           <Bannerphrase />

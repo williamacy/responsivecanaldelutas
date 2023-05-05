@@ -1,0 +1,67 @@
+.manual-therapy-container {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .manual-therapy-container h2 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    background: rgb(255, 255, 255);
+    border-radius: 1rem;
+    padding: 1rem;
+  }
+  
+  .manual-therapy-container h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    color: white;
+    background-color: transparent;
+  }
+  
+  .manual-therapy-container ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .manual-therapy-container li {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    width: 30%;
+    padding: 1rem;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .manual-therapy-container li:hover {
+    transform: translateY(-3px);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  }
+    
+  @media (max-width: 768px) {
+    .manual-therapy-container li {
+      width: 100%;
+    }
+    .manual-therapy-container ul {
+      flex-wrap: wrap;
+    }
+  }
+  
+  
+  
