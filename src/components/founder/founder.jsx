@@ -58,7 +58,7 @@ function FounderCarousel() {
                 Ministro aulas da arte suave por muitos anos. Atleta de Jiu Jitsu e 
                 já competi também no MMA. 
                 Gosto de ensinar tanto turmas de adulto quanto de crianças, onde de maneira 
-                lúdica consegue passar muitos ensinamentos e técnicas. Também sou  preparador físico 
+                lúdica consigo  passar muitos ensinamentos e técnicas. Também sou  preparador físico 
                 e especialista em reabilitações de lesões de atletas com formação em Medicina Chinesa, 
                 onde utilizo técnicas de eletro acupuntura , 
                 liberação miofacial; ventosaterapia; moxaterapiia.
