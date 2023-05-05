@@ -181,7 +181,7 @@ function Modalities() {
                             <td>QUARTA-FEIRA</td>
                             <td>
                             <ul>
-                                <li>07h00 às 08h00 (OGROO)</li>
+                                <li>10h00 às 11h00 (OGROO)</li>
                                 {/* <li>07h00 às 08h00</li>
                                 <li>18h00 às 19h00</li> */}
                                 <li>20h00 às 21h00 (ÍCARO)</li>
