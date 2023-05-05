@@ -52,11 +52,16 @@ function FounderCarousel() {
               {/* <h2>Professor Marcos "Voinho" Guimarães</h2> */}
               <p>
                 <p>
-                Apresentando o idealizador do Studio Canal Lutas, o nosso professor e sócio: Marcos Guimarães, mais conhecido como Voinho.
-
-                Profissional de Educação física, Marcos que é faixa preta de Jiu Jitsu 4 graus vem ministrando aulas da arte suave por muitos anos. Atleta de Jiu Jitsu e já competiu também no MMA, o professor gosta de ensinar tanto turmas de adulto quanto de crianças, onde de maneira lúdica consegue passar muitos ensinamentos e técnicas. 
-
-                Voinho também é preparador físico e especialista em reabilitações de lesões com tratamentos de acupuntura e liberação miofacial.
+                Sou Marcos Guimarães, mais conhecido como Voinho. Sou sócio proprietário e 
+                idealizador do Studio Canal Lutas. Graduado em Educação Fisica, sou também faixa 
+                preta de Jiu Jitsu 4 graus.
+                Ministro aulas da arte suave por muitos anos. Atleta de Jiu Jitsu e 
+                já competi também no MMA. 
+                Gosto de ensinar tanto turmas de adulto quanto de crianças, onde de maneira 
+                lúdica consegue passar muitos ensinamentos e técnicas. Também sou  preparador físico 
+                e especialista em reabilitações de lesões de atletas com formação em Medicina Chinesa, 
+                onde utilizo técnicas de eletro acupuntura , 
+                liberação miofacial; ventosaterapia; moxaterapiia.
                 </p>
                 {/* <p>Realiza terapias com agendamento:</p>
                     <ul className='terapias-do-voinho'>
@@ -86,7 +91,7 @@ function FounderCarousel() {
             <img src={gazzo} alt="slide_image" />
             <div className="card-content">
               {/* <h2>Leo IURY</h2> */}
-              <p>Sou Lazaro "Gazzo" Mascaranhes, um atleta de MMA 
+              <p>Sou Lazaro "Gazo" Mascaranhes, um atleta de MMA 
                 com reconhecimento no Universo profissional dessa modalidade. 
                 Minha experiência como professor tem sido enriquecedora, especialmente porque como atleta profissional 
                 de MMA e detentor de dois cinturões, eu tenho uma grande bagagem teórica e prática que eu posso compartilhar com vocês.
@@ -141,7 +146,7 @@ function FounderCarousel() {
               Como professor, busco transmitir aos meus alunos não apenas a técnica dos golpes, mas 
               também a confiança em suas próprias habilidades e a disciplina para alcançar seus objetivos. 
               Minhas aulas são dinâmicas e personalizadas para atender às necessidades de cada aluno, 
-              com o objetivo de incentivar um estilo de vida saudável e ativo. Venha treinar comigo e descubra 
+              com o objetivo de incentivar um estilo de vida saudável e ativo. Descubra 
               seu potencial para enfrentar qualquer desafio, dentro e fora dos ringues.
               </p>
             </div>

@@ -15,31 +15,7 @@ const Bannerphrase = () => {
             // gap: '2.5rem' }}
             >
                 <span className="stroke-text">
-                    Te 
-                </span>
-                <span>
-                    ajudaremos
-                </span>
-                <span className="stroke-text">
-                    a
-                </span>
-                <span>
-                    superar 
-                </span>
-                <span className="stroke-text">
-                    os
-                </span>
-                <span>
-                    limites.
-                </span>
-                <span className="stroke-text">
-                    físicos
-                </span>
-                <span>
-                    e
-                </span>
-                <span className="stroke-text">
-                    mentais.
+                    Te ajudaremos a superar os limites físicos e mentais.
                 </span>
                
 

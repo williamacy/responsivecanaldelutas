@@ -8,28 +8,7 @@ const Professorsbanner = () => {
             {/* explore nossas modalidades */}
             <div className="programs-header">
                 <span className="stroke-text">
-                    Treine
-                </span>
-                <span>
-                    com
-                </span>
-                <span className="stroke-text">
-                    os
-                </span>
-                <span>
-                    melhores
-                </span>
-                <span className="stroke-text">
-                    e
-                </span>
-                <span>
-                    alcance
-                </span>
-                <span className="stroke-text">
-                    resultados
-                </span>
-                <span>
-                    surpreendentes!
+                    Treine com os melhores e alcance resultados surpreendentes!
                 </span>
             </div>
 
