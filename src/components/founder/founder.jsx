@@ -102,7 +102,7 @@ function FounderCarousel() {
             <img src={ogro} alt="slide_image" />
             <div className="card-content">
               {/* <h2>Leo IURY</h2> */}
-              <p>Eu sou LUCAS OGROO e eu comecei minha história como professor após um treino duro, onde fui surpreendido com a informação que daria aula de MMA em uma outra academia, isso mesmo, do nada me jogaram nesse mundo. Encarei o desafio e fui na cara e na coragem, comecei a observar mais outros professores ensinando e fui criando meu método. Fui construindo uma boa reputação, comecei a trabalhar em outras academias, dar aulas particulares e quando vi, estava apaixonado pela profissão.
+              <p>Eu sou Lucas Ogroo e eu comecei minha história como professor após um treino duro, onde fui surpreendido com a informação que daria aula de MMA em uma outra academia, isso mesmo, do nada me jogaram nesse mundo. Encarei o desafio e fui na cara e na coragem, comecei a observar mais outros professores ensinando e fui criando meu método. Fui construindo uma boa reputação, comecei a trabalhar em outras academias, dar aulas particulares e quando vi, estava apaixonado pela profissão.
               </p>
             </div>
           </div>
@@ -133,26 +133,16 @@ function FounderCarousel() {
           <div className="innerWidth card">
             <img src={icaro} alt="slide_image" />
             <div className="card-content">
-              <h2>Professor Marcos "Voinho" Guimarães</h2>
-              <p>Idealizador e Fundador da <br />
-                Studio Canal de Lutas <br />
-                <hr />
-                Professor de Jiu-Jítsu <br />
-                <hr />
-                Preparador Físico <br />
-                sendo Bacharel em <br />
-                Educacao Física <br />
-                <hr />
-                Também formado em <br />
-                Medicina Chinesa <br />
-                <hr />
-                <p>Realiza terapias com agendamento</p>
-                    <ul className='terapias-do-voinho'>
-                      <li>ventosa terapia</li>
-                      <li>acupuntura</li>
-                      <li>eletro acupuntura</li>
-                      <li>massoterapia</li>
-                    </ul>
+              {/* <h2>Professor Marcos "Voinho" Guimarães</h2> */}
+              <p>
+              Me chamo Ícaro e
+              com mais de uma década de dedicação às artes marciais,
+              tenho a experiência e a resiliência necessárias para competir em alto nível no MMA. 
+              Como professor, busco transmitir aos meus alunos não apenas a técnica dos golpes, mas 
+              também a confiança em suas próprias habilidades e a disciplina para alcançar seus objetivos. 
+              Minhas aulas são dinâmicas e personalizadas para atender às necessidades de cada aluno, 
+              com o objetivo de incentivar um estilo de vida saudável e ativo. Venha treinar comigo e descubra 
+              seu potencial para enfrentar qualquer desafio, dentro e fora dos ringues.
               </p>
             </div>
           </div>

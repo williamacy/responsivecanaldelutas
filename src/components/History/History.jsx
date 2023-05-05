@@ -1,35 +1,32 @@
 import React from 'react';
-import * as TTabss from '@radix-ui/react-tabs';
 import './History.css';
 
 const History = () => (
-  <TTabss.Root className="TabsRoot" defaultValue="tab1">
-    <TTabss.List className="TabsList" aria-label="História do Canal De Lutas">
-      <TTabss.Trigger className="TabsTrigger" value="tab1">
-        Um pouquinho
-      </TTabss.Trigger>
-      <TTabss.Trigger className="TabsTrigger" value="tab2">
-        sobre a gente
-      </TTabss.Trigger>
-    </TTabss.List>
-    <TTabss.Content className="TabsContent" value="tab1">
-      <p className="Text">
+  <div className="history-container">
+    <h2 className="our-history">
+      Um pouquinho sobre a nossa historia
+    </h2>
+    <p className="history-text">
+      O Studio Canal Lutas nasceu em 2014 , da paixão do professor Marcos Guimarães,
+      conhecido como Voinho, por ensinar artes marciais.
 
-      Meu nome é Marcos e sou professor de Jiu-Jitsu. Desde jovem, eu sempre fui apaixonado pelas artes marciais e comecei a treinar Jiu-Jitsu aos 16 anos. O que começou como um hobby rapidamente se tornou uma paixão e uma carreira para mim. Eu competi em campeonatos de Jiu-Jitsu e MMA profissional, mas sempre soube que queria ensinar a arte para outras pessoas.
+      Hoje, com estrutura maior e equipamentos específicos, o espaço é voltado pra
+      a prática de artes marciais, onde através do esporte os alunos aprendem as
+      técnicas e ao mesmo tempo exercitam a disciplina, autocontrole e a paciência,
+      através do respeito aos adversários, a humildade e a coragem. Princípios esses
+      que devem ser valorizados dentro e fora do tatame.
 
+      O Studio Canal Lutas oferece treinos dinâmicos de modalidades voltadas para
+      o condicionamento físico, com movimentações em todo o corpo, o que auxilia
+      não só na definição dos músculos, mas também na perda de peso, redução de
+      gordura e melhor qualidade de vida.
 
-      </p>
-    </TTabss.Content>
-    <TTabss.Content className="TabsContent" value="tab2">
-      <p className="Text">
+      Os treinos do Studio Canal Lutas promovem bem estar e qualidade de vida num
+      ambiente saudável e de boas energias!
 
-      Abrir minha academia foi um desafio, mas também foi uma das melhores decisões que já tomei. Eu tenho a oportunidade de compartilhar minha paixão pelo Jiu-Jitsu com outros todos os dias, e ver meus alunos crescerem e alcançarem seus objetivos é extremamente gratificante. Não há nada melhor do que ver um aluno dominar uma nova técnica ou ganhar uma luta.
-
-
-
-      </p>
-    </TTabss.Content>
-  </TTabss.Root>
+      Agende uma aula experiencial e viva essa experiência!
+    </p>
+  </div>
 );
 
 export default History;
