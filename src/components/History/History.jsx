@@ -7,24 +7,15 @@ const History = () => (
       Um pouquinho sobre a nossa historia
     </h2>
     <p className="history-text">
-      O Studio Canal Lutas nasceu em 2014 , da paixão do professor Marcos Guimarães,
-      conhecido como Voinho, por ensinar artes marciais.
+    O Studio Canal Lutas nasceu em 2014 em razão da paixão do professor e sócio Marcos Guimarães (Voinho) por ensinar artes marciais. 
 
-      Hoje, com estrutura maior e equipamentos específicos, o espaço é voltado pra
-      a prática de artes marciais, onde através do esporte os alunos aprendem as
-      técnicas e ao mesmo tempo exercitam a disciplina, autocontrole e a paciência,
-      através do respeito aos adversários, a humildade e a coragem. Princípios esses
-      que devem ser valorizados dentro e fora do tatame.
+    Trata- se de um espaço voltado pra a prática esportiva e demais cuidados com a saúde, no qual os alunos aprendem as técnicas, mas também exercitam a disciplina, autocontrole e paciência, respeito aos adversários, humildade e a coragem. 
 
-      O Studio Canal Lutas oferece treinos dinâmicos de modalidades voltadas para
-      o condicionamento físico, com movimentações em todo o corpo, o que auxilia
-      não só na definição dos músculos, mas também na perda de peso, redução de
-      gordura e melhor qualidade de vida.
+    O Studio Canal Lutas oferece também treinos dinâmicos de modalidades voltadas para o condicionamento físico, com movimentações em todo o corpo, que auxilia não só na definição muscular, mas também na perda de peso e redução de gordura. 
 
-      Os treinos do Studio Canal Lutas promovem bem estar e qualidade de vida num
-      ambiente saudável e de boas energias!
+    Os treinos do Studio Canal Lutas promovem bem estar e qualidade de vida num ambiente saudável e de boas energias ideal para ajudar você a buscar a sua melhor versão! 
 
-      Agende uma aula experiencial e viva essa experiência!
+Treinem!
     </p>
   </div>
 );
