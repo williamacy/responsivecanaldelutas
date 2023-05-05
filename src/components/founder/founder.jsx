@@ -51,25 +51,17 @@ function FounderCarousel() {
             <div className="card-content">
               {/* <h2>Professor Marcos "Voinho" Guimarães</h2> */}
               <p>
-                <p>
-                Sou Marcos Guimarães, mais conhecido como Voinho. Sou sócio proprietário e 
-                idealizador do Studio Canal Lutas. Graduado em Educação Fisica, sou também faixa 
-                preta de Jiu Jitsu 4 graus.
-                Ministro aulas da arte suave por muitos anos. Atleta de Jiu Jitsu e 
-                já competi também no MMA. 
-                Gosto de ensinar tanto turmas de adulto quanto de crianças, onde de maneira 
-                lúdica consigo  passar muitos ensinamentos e técnicas. Também sou  preparador físico 
-                e especialista em reabilitações de lesões de atletas com formação em Medicina Chinesa, 
-                onde utilizo técnicas de eletro acupuntura , 
-                liberação miofacial; ventosaterapia; moxaterapiia.
-                </p>
-                {/* <p>Realiza terapias com agendamento:</p>
-                    <ul className='terapias-do-voinho'>
-                      <li>Ventosa terapia</li>
-                      <li>Acupuntura</li>
-                      <li>Eletro acupuntura</li>
-                      <li>Massoterapia</li>
-                    </ul> */}
+                Sou Marcos Guimarães, mais conhecido como Voinho. 
+                Sou sócio-proprietário e idealizador do Studio Canal Lutas. 
+                Graduado em Educação Física, sou também faixa preta de 
+                Jiu Jitsu 4º grau. Ministro aulas da arte suave há muitos anos. 
+                Atleta de Jiu Jitsu e já competi também no MMA. Gosto de ensinar 
+                tanto turmas de adultos quanto de crianças, onde de maneira 
+                lúdica consigo passar muitos ensinamentos e técnicas. 
+                Também sou preparador físico e especialista em reabilitações 
+                de lesões de atletas com formação em Medicina Chinesa, onde 
+                utilizo técnicas de eletroacupuntura, liberação miofascial, 
+                ventosaterapia e moxaterapia.
               </p>
             </div>
           </div>
@@ -107,7 +99,14 @@ function FounderCarousel() {
             <img src={ogro} alt="slide_image" />
             <div className="card-content">
               {/* <h2>Leo IURY</h2> */}
-              <p>Eu sou Lucas Ogroo e eu comecei minha história como professor após um treino duro, onde fui surpreendido com a informação que daria aula de MMA em uma outra academia, isso mesmo, do nada me jogaram nesse mundo. Encarei o desafio e fui na cara e na coragem, comecei a observar mais outros professores ensinando e fui criando meu método. Fui construindo uma boa reputação, comecei a trabalhar em outras academias, dar aulas particulares e quando vi, estava apaixonado pela profissão.
+              <p>
+              Eu sou Lucas Ogro e eu comecei minha história como professor 
+              após um treino duro, onde fui surpreendido com a informação de que daria aula 
+              de MMA em outra academia. Isso mesmo, do nada me jogaram nesse mundo. 
+              Encarei o desafio e fui na cara e na coragem. Comecei a observar outros 
+              professores ensinando e fui criando meu próprio método. Fui construindo 
+              uma boa reputação, comecei a trabalhar em outras academias, 
+              dar aulas particulares e quando vi, estava apaixonado pela profissão.
               </p>
             </div>
           </div>
@@ -140,14 +139,13 @@ function FounderCarousel() {
             <div className="card-content">
               {/* <h2>Professor Marcos "Voinho" Guimarães</h2> */}
               <p>
-              Me chamo Ícaro e
-              com mais de uma década de dedicação às artes marciais,
+              Me chamo Ícaro e, com mais de uma década de dedicação às artes marciais, 
               tenho a experiência e a resiliência necessárias para competir em alto nível no MMA. 
-              Como professor, busco transmitir aos meus alunos não apenas a técnica dos golpes, mas 
-              também a confiança em suas próprias habilidades e a disciplina para alcançar seus objetivos. 
+              Como professor, busco transmitir aos meus alunos não apenas a técnica dos golpes, 
+              mas também a confiança em suas próprias habilidades e a disciplina para alcançar seus objetivos. 
               Minhas aulas são dinâmicas e personalizadas para atender às necessidades de cada aluno, 
-              com o objetivo de incentivar um estilo de vida saudável e ativo. Descubra 
-              seu potencial para enfrentar qualquer desafio, dentro e fora dos ringues.
+              com o objetivo de incentivar um estilo de vida saudável e ativo. 
+              Descubra seu potencial para enfrentar qualquer desafio, dentro e fora dos tatames.
               </p>
             </div>
           </div>
