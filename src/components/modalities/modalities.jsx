@@ -260,8 +260,8 @@ function Modalities() {
                             <td>SEGUNDA-FEIRA</td>
                             <td>
                             <ul>
-                                <li>17h00 às 18h00 (combate/GAZZO)</li>
-                                <li>18h00 às 19h00 (fitness/GAZZO)</li>
+                                <li>17h00 às 18h00 (fitness/GAZZO)</li>
+                                <li>18h00 às 19h00 (combate/GAZZO)</li>
                             </ul>
                             </td>
                         </tr>
@@ -288,8 +288,8 @@ function Modalities() {
                             <td>QUARTA-FEIRA</td>
                             <td>
                             <ul>
-                                <li>17h00 às 18h00 (combate/GAZZO)</li>
-                                <li>18h00 às 19h00 (fitness/GAZZO)</li>
+                                <li>17h00 às 18h00 (fitness/GAZZO)</li>
+                                <li>18h00 às 19h00 (combate/GAZZO)</li>
                             </ul>
                             </td>
                         </tr>
