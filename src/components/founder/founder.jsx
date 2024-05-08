@@ -78,12 +78,13 @@ function FounderCarousel() {
           </div>
         </SwiperSlide>
 
+        {/* <div>
         <SwiperSlide>
           <div className="innerWidth card">
             <img src={gazzo} alt="slide_image" />
             <div className="card-content">
               {/* <h2>Leo IURY</h2> */}
-              <p>Sou Lazaro "Gazo" Mascaranhes, um atleta de MMA 
+              {/* <p>Sou Lazaro "Gazo" Mascaranhes, um atleta de MMA 
                 com reconhecimento no Universo profissional dessa modalidade. 
                 Minha experiência como professor tem sido enriquecedora, especialmente porque como atleta profissional 
                 de MMA e detentor de dois cinturões, eu tenho uma grande bagagem teórica e prática que eu posso compartilhar com vocês.
@@ -93,13 +94,16 @@ function FounderCarousel() {
             </div>
           </div>
         </SwiperSlide>
+        </div> */} */{'}'}
+        
 
+        {/* <div>
         <SwiperSlide>
           <div className="innerWidth card">
             <img src={ogro} alt="slide_image" />
             <div className="card-content">
               {/* <h2>Leo IURY</h2> */}
-              <p>
+              {/* <p>
               Eu sou Lucas Ogro e eu comecei minha história como professor 
               após um treino duro, onde fui surpreendido com a informação de que daria aula 
               de MMA em outra academia. Isso mesmo, do nada me jogaram nesse mundo. 
@@ -111,6 +115,8 @@ function FounderCarousel() {
             </div>
           </div>
         </SwiperSlide>
+        </div> */} */{'}'}
+       
 
         <SwiperSlide>
           <div className="innerWidth card">
