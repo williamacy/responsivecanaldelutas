@@ -11,10 +11,11 @@ import { EffectCoverflow, Pagination, Navigation } from 'swiper';
 import slide_image_1 from '../../images/marcos/voinho.png';
 
 
+
 import './founder.css'
 import leo from '../../images/leothay.png';
 import gazzo from '../../images/gazzo2.jpg'
-import ogro from '../../images/oGro.png'
+// import ogro from '../../images/oGro.png'
 import kaiky from '../../images/kaiky.jpg'
 import icaro from '../../images/icaro.jpg'
 
@@ -77,47 +78,7 @@ function FounderCarousel() {
             </div>
           </div>
         </SwiperSlide>
-
-        {/* <div>
-        <SwiperSlide>
-          <div className="innerWidth card">
-            <img src={gazzo} alt="slide_image" />
-            <div className="card-content">
-              {/* <h2>Leo IURY</h2> */}
-              {/* <p>Sou Lazaro "Gazo" Mascaranhes, um atleta de MMA 
-                com reconhecimento no Universo profissional dessa modalidade. 
-                Minha experiência como professor tem sido enriquecedora, especialmente porque como atleta profissional 
-                de MMA e detentor de dois cinturões, eu tenho uma grande bagagem teórica e prática que eu posso compartilhar com vocês.
-                Acredito que meu maior papel é ajudar meus alunos a superar 
-                seus próprios limites e alcançar um novo patamar em sua prática esportiva.
-              </p>
-            </div>
-          </div>
-        </SwiperSlide>
-        </div> */} */{'}'}
-        
-
-        {/* <div>
-        <SwiperSlide>
-          <div className="innerWidth card">
-            <img src={ogro} alt="slide_image" />
-            <div className="card-content">
-              {/* <h2>Leo IURY</h2> */}
-              {/* <p>
-              Eu sou Lucas Ogro e eu comecei minha história como professor 
-              após um treino duro, onde fui surpreendido com a informação de que daria aula 
-              de MMA em outra academia. Isso mesmo, do nada me jogaram nesse mundo. 
-              Encarei o desafio e fui na cara e na coragem. Comecei a observar outros 
-              professores ensinando e fui criando meu próprio método. Fui construindo 
-              uma boa reputação, comecei a trabalhar em outras academias, 
-              dar aulas particulares e quando vi, estava apaixonado pela profissão.
-              </p>
-            </div>
-          </div>
-        </SwiperSlide>
-        </div> */} */{'}'}
        
-
         <SwiperSlide>
           <div className="innerWidth card">
             <img src={kaiky} alt="slide_image" />
@@ -141,17 +102,34 @@ function FounderCarousel() {
 
         <SwiperSlide>
           <div className="innerWidth card">
+            <img src={gazzo} alt="slide_image" />
+            <div className="card-content">
+              {/* <h2>Leo IURY</h2> */}
+              <p>Olá, meu nome é Aloísio e sou professor de artes marciais. 
+                Com anos de experiência e dedicação, alcancei a faixa preta em Jiu Jitsu e me especializei em MMA, Boxe e Muay Thai.
+                Hoje, dedico-me a ensinar essas modalidades, 
+                compartilhando meu conhecimento e paixão com meus alunos. Minhas aulas são projetadas para promover a autodefesa, 
+                o condicionamento físico e o desenvolvimento pessoal, sempre valorizando a disciplina e o respeito.
+                Se você deseja aprender artes marciais de maneira segura e eficaz, estou aqui para ajudar. Vamos treinar juntos e descobrir os benefícios das artes marciais!
+              </p>
+            </div>
+          </div>
+        </SwiperSlide>
+
+        <SwiperSlide>
+          <div className="innerWidth card">
             <img src={icaro} alt="slide_image" />
             <div className="card-content">
               {/* <h2>Professor Marcos "Voinho" Guimarães</h2> */}
               <p>
-              Me chamo Ícaro e, com mais de uma década de dedicação às artes marciais, 
-              tenho a experiência e a resiliência necessárias para competir em alto nível no MMA. 
-              Como professor, busco transmitir aos meus alunos não apenas a técnica dos golpes, 
-              mas também a confiança em suas próprias habilidades e a disciplina para alcançar seus objetivos. 
-              Minhas aulas são dinâmicas e personalizadas para atender às necessidades de cada aluno, 
-              com o objetivo de incentivar um estilo de vida saudável e ativo. 
-              Descubra seu potencial para enfrentar qualquer desafio, dentro e fora dos tatames.
+              Olá, meu nome é Ícaro "Adesanya". Sou um dedicado praticante de Jiu Jitsu, 
+              lutando sempre no mais alto desempenho. Além disso, sou professor de 
+              Boxe, onde compartilho minhas técnicas e estratégias.
+              Tenho uma vasta experiência em Muay Thai, com várias lutas profissionais no 
+              currículo. Cada modalidade que ensino ou pratico reflete minha paixão e compromisso com as artes marciais.
+              Se você está em busca de aprimorar suas habilidades ou iniciar uma jornada 
+              nas artes marciais, estou aqui para guiá-lo. Vamos treinar juntos e explorar 
+              todo o potencial que o Jiu Jitsu, o Boxe e o Muay Thai podem oferecer!
               </p>
             </div>
           </div>
