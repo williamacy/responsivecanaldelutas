@@ -33,7 +33,7 @@ function Modalities() {
           <Tab className='tab'>Boxe</Tab>
           <Tab className='tab'>MMA</Tab>
           <Tab className='tab'>Muay Thay</Tab>
-          {/* <Tab className='tab'>Funcional Fight</Tab> */}
+          <Tab className='tab'>Funcional Fight</Tab>
           <Tab className='tab'>Preparação Física</Tab>
           {/* <Tab className='tab'>Tratamentos</Tab> */}
         </TabList>
@@ -434,6 +434,37 @@ function Modalities() {
                             </ul>
                             </td>
                         </tr> */}
+                        </tbody>
+                        <thead>
+                        <tr>
+                            {/* <th>Dia</th>
+                            <th>Horário</th> */}
+                        </tr>
+                        </thead>
+                    </table>
+                    </TabPanel>
+               {/* funcional */}                     
+        <TabPanel className='tab-panel'>
+                    <table>
+                        <thead>
+                        <tr>
+                            <th>Dia</th>
+                            <th>Horário</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+
+                        <tr>
+                            <td>SÁBADO</td>
+                            <td>
+                            <ul>
+                                <li>10h00 às 11h00 (ÍCARO)</li>
+                                {/* <li>07h00 às 08h00</li>
+                                <li>18h00 às 19h00</li>
+                                <li>19h00 às 20h00</li> */}
+                            </ul>
+                            </td>
+                        </tr>
                         </tbody>
                         <thead>
                         <tr>
