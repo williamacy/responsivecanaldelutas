@@ -13,7 +13,7 @@ import slide_image_1 from '../../images/marcos/voinho.png';
 
 
 import './founder.css'
-import leo from '../../images/leothay.png';
+import leo from '../../images/leothay.jpg';
 import gazzo from '../../images/gazzo2.jpg'
 // import ogro from '../../images/oGro.png'
 import kaiky from '../../images/kaiky.jpg'
