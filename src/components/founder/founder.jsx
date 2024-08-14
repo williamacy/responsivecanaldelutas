@@ -14,7 +14,7 @@ import slide_image_1 from '../../images/marcos/voinho.png';
 
 import './founder.css'
 import leo from '../../images/leothay.jpg';
-import gazzo from '../../images/gazzo2.jpg'
+// import gazzo from '../../images/gazzo2.jpg'
 // import ogro from '../../images/oGro.png'
 import kaiky from '../../images/kaiky.jpg'
 import icaro from '../../images/icaro.jpg'
@@ -100,21 +100,7 @@ function FounderCarousel() {
           </div>
         </SwiperSlide>
 
-        <SwiperSlide>
-          <div className="innerWidth card">
-            <img src={gazzo} alt="slide_image" />
-            <div className="card-content">
-              {/* <h2>Leo IURY</h2> */}
-              <p>Olá, meu nome é Aloísio e sou professor de artes marciais. 
-                Com anos de experiência e dedicação, alcancei a faixa preta em Jiu Jitsu e me especializei em MMA, Boxe e Muay Thai.
-                Hoje, dedico-me a ensinar essas modalidades, 
-                compartilhando meu conhecimento e paixão com meus alunos. Minhas aulas são projetadas para promover a autodefesa, 
-                o condicionamento físico e o desenvolvimento pessoal, sempre valorizando a disciplina e o respeito.
-                Se você deseja aprender artes marciais de maneira segura e eficaz, estou aqui para ajudar. Vamos treinar juntos e descobrir os benefícios das artes marciais!
-              </p>
-            </div>
-          </div>
-        </SwiperSlide>
+        
 
         <SwiperSlide>
           <div className="innerWidth card">
