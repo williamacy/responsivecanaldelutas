@@ -53,10 +53,10 @@ function Modalities() {
                             <td>
                             <ul>
                                 <li>06h00 às 07h00 (VOINHO)</li>
-                                <li>08h30 às 09h30 (Gustavo Cabeça)</li>
+                                {/* <li>08h30 às 09h30 (Gustavo Cabeça)</li> */}
                                 <li>11h00 às 12h00 (VOINHO)</li>
-                                <li>14h00 às 15h00 (Gustavo Cabeça)</li>
-                                <li>16h00 às 17h00 (kids/VOINHO)</li>
+                                <li>16h00 às 17h00 (Kids/VOINHO)</li>
+                                <li>17h00 às 18h00 (Teen/Gustavo Cabeça)</li>
                                 <li>18h00 às 19h00 (VOINHO)</li>
                                 {/* <li>20h00 às 21h00 (VOINHO)</li> */}
                             </ul>
@@ -67,11 +67,12 @@ function Modalities() {
                             <td>
                             <ul>
                                 <li>06h00 às 07h00 (VOINHO)</li>
-                                <li>09h30 às 10h30 (PIPO)</li>
+                                {/* <li>09h30 às 10h30 (PIPO)</li> */}
                                 <li>11h00 às 12h00 (VOINHO)</li>
-                                <li>13h30 às 14h30 (VOINHO)</li>
-                                <li>15h30 às 16h30 (PIPO)</li>
+                                {/* <li>13h30 às 14h30 (VOINHO)</li> */}
+                                <li>15h30 às 16h30 (Kids/Gustavo Cabeça)</li>
                                 {/* <li>07h00 às 08h00</li> */}
+                                <li>17h00 às 18h00 (Teen/Gustavo Cabeça)</li>
                                 <li>18h00 às 19h00 (VOINHO)</li>
                                 {/* <li>19h00 às 20h00</li> */}
                                 {/* <li>20h00 às 21h00 (NoGi/VOINHO)</li> */}
@@ -91,10 +92,11 @@ function Modalities() {
                             <td>
                             <ul>
                                 <li>06h00 às 07h00 (VOINHO)</li>
-                                <li>08h30 às 09h30 (Gustavo Cabeça)</li>
+                                <li>09h30 às 10h30 (Ícaro Pipo)</li>
+                                {/* <li>08h30 às 09h30 (Gustavo Cabeça)</li> */}
                                 <li>11h00 às 12h00 (VOINHO)</li>
-                                <li>14h00 às 15h00 (Gustavo Cabeça)</li>
-                                <li>16h00 às 17h00 (kids/VOINHO)</li>
+                                <li>16h00 às 17h00 (Kids/VOINHO)</li>
+                                <li>17h00 às 18h00 (Teen/Gustavo Cabeça)</li>
                                 <li>18h00 às 19h00 (VOINHO)</li>
                                 {/* <li>20h00 às 21h00 (VOINHO)</li> */}
                             </ul>
@@ -105,11 +107,12 @@ function Modalities() {
                             <td>
                             <ul>
                                 <li>06h00 às 07h00 (VOINHO)</li>
-                                <li>09h30 às 10h30 (PIPO)</li>
+                                {/* <li>09h30 às 10h30 (PIPO)</li> */}
                                 <li>11h00 às 12h00 (VOINHO)</li>
-                                <li>13h30 às 14h30 (VOINHO)</li>
-                                <li>15h30 às 16h30 (PIPO)</li>
+                                {/* <li>13h30 às 14h30 (VOINHO)</li> */}
+                                <li>15h30 às 16h30 (Kids/Gustavo Cabeça)</li>
                                 {/* <li>07h00 às 08h00</li> */}
+                                <li>17h00 às 18h00 (Teen/Gustavo Cabeça)</li>
                                 <li>18h00 às 19h00 (VOINHO)</li>
                                 {/* <li>19h00 às 20h00</li> */}
                                 {/* <li>20h00 às 21h00 (NoGi/VOINHO)</li> */}
@@ -129,10 +132,11 @@ function Modalities() {
                             <td>
                             <ul>
                                 <li>06h00 às 07h00 (VOINHO)</li>
-                                <li>08h30 às 09h30 (Gustavo Cabeça)</li>
+                                <li>09h30 às 10h30 (Ícaro Pipo)</li>
+                                {/* <li>08h30 às 09h30 (Gustavo Cabeça)</li> */}
                                 <li>11h00 às 12h00 (VOINHO)</li>
-                                <li>14h00 às 15h00 (Gustavo Cabeça)</li>
-                                <li>16h00 às 17h00 (kids/VOINHO)</li>
+                                <li>16h00 às 17h00 (Kids/VOINHO)</li>
+                                <li>17h00 às 18h00 (Teen/Gustavo Cabeça)</li>
                                 <li>18h00 às 19h00 (VOINHO)</li>
                                 {/* <li>20h00 às 21h00 (VOINHO)</li> */}
                             </ul>
@@ -306,6 +310,7 @@ function Modalities() {
                             <td>QUARTA-FEIRA</td>
                             <td>
                             <ul>
+                                <li>10h00 às 11h00 (VOINHO)</li>
                                 <li>17h00 às 18h00 (VOINHO)</li>
                                 {/* <li>18h00 às 19h00 (combate/GAZZO)</li> */}
                             </ul>
@@ -334,6 +339,7 @@ function Modalities() {
                             <td>SEXTA-FEIRA</td>
                             <td>
                             <ul>
+                                <li>10h00 às 11h00 (VOINHO)</li>
                                 <li>17h00 às 18h00 (VOINHO)</li>
                                 {/* <li>18h00 às 19h00 (combate/GAZZO)</li> */}
                             </ul>
@@ -431,7 +437,7 @@ function Modalities() {
                             <ul>
                                 <li>07h30 às 08h30 (LEO IURY)</li>
                                 <li>18h00 às 19h00 (LEO IURY/Sparring)</li>
-                                <li>19h00 às 20h00 (LEO IURY)</li>
+                                {/* <li>19h00 às 20h00 (LEO IURY)</li> */}
                             </ul>
                             </td>
                         </tr>
@@ -502,7 +508,7 @@ function Modalities() {
                             <td>
                             <ul>
                                 {/* <li>07h00 às 08h00 (VOINHO)</li> */}
-                                <li>17h00 às 18h00 (VOINHO)</li>
+                                {/* <li>17h00 às 18h00 (VOINHO)</li> */}
                                 <li>20h00 às 21h00 (VOINHO)</li>
                             </ul>
                             </td>
@@ -532,7 +538,7 @@ function Modalities() {
                             <ul>
                                 {/* <li>07h00 às 08h00 (VOINHO)</li> */}
                                 {/* <li>08h00 às 09h00 (VOINHO)</li> */}
-                                <li>17h00 às 18h00 (VOINHO)</li>
+                                {/* <li>17h00 às 18h00 (VOINHO)</li> */}
                                 <li>20h00 às 21h00 (VOINHO)</li>
                             </ul>
                             </td>
@@ -562,7 +568,7 @@ function Modalities() {
                             <ul>
                                 {/* <li>07h00 às 08h00 (VOINHO)</li> */}
                                 {/* <li>08h00 às 09h00 (VOINHO)</li> */}
-                                <li>17h00 às 18h00 (VOINHO)</li>
+                                {/* <li>17h00 às 18h00 (VOINHO)</li> */}
                                 {/* <li>20h00 às 21h00 (VOINHO)</li> */}
                             </ul>
                             </td>
