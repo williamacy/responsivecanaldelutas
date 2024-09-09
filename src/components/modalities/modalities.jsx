@@ -172,7 +172,7 @@ function Modalities() {
                             <td>SEGUNDA-FEIRA</td>
                             <td>
                             <ul>
-                                <li>17h00 às 18h00 (ALOÍSIO)</li>
+                                <li>16h00 às 17h00 (ÍCARO)</li>
                                 {/* <li>07h00 às 08h00</li>
                                 <li>18h00 às 19h00</li> */}
                                 <li>20h00 às 21h00 (ÍCARO)</li>
@@ -184,7 +184,7 @@ function Modalities() {
                             <td>
                             <ul>
                                 <li>07h00 às 08h00 (VOINHO)</li>
-                                <li>17h00 às 18h00 (ALOÍSIO)</li>
+                                <li>16h00 às 17h00 (ÍCARO)</li>
                                 {/* <li>07h00 às 08h00</li>
                                 <li>18h00 às 19h00</li> */}
                                 <li>20h00 às 21h00 (ÍCARO)</li>
@@ -203,7 +203,7 @@ function Modalities() {
                             <td>QUARTA-FEIRA</td>
                             <td>
                             <ul>
-                                <li>17h00 às 18h00 (ALOÍSIO)</li>
+                                <li>16h00 às 17h00 (ÍCARO)</li>
                                 {/* <li>07h00 às 08h00</li>
                                 <li>18h00 às 19h00</li> */}
                                 <li>20h00 às 21h00 (ÍCARO)</li>
@@ -215,7 +215,7 @@ function Modalities() {
                             <td>
                             <ul>
                                 <li>07h00 às 08h00 (ÍCARO)</li>
-                                <li>17h00 às 18h00 (ALOÍSIO)</li>
+                                <li>16h00 às 17h00 (ÍCARO)</li>
                                 {/* <li>07h00 às 08h00</li>
                                 <li>18h00 às 19h00</li> */}
                                 <li>20h00 às 21h00 (ÍCARO)</li>
@@ -234,7 +234,7 @@ function Modalities() {
                             <td>SEXTA-FEIRA</td>
                             <td>
                             <ul>
-                                <li>17h00 às 18h00 (ALOÍSIO)</li>
+                                <li>16h00 às 17h00 (ÍCARO)</li>
                                 {/* <li>07h00 às 08h00</li>
                                 <li>18h00 às 19h00</li> 
                                 <li>20h00 às 21h00 (ÍCARO)</li>*/}
@@ -276,7 +276,8 @@ function Modalities() {
                             <td>
                             <ul>
                                
-                                <li>16h00 às 17h00 (ALOÍSIO)</li>
+                                {/* <li>16h00 às 17h00 (ALOÍSIO)</li> */}
+                                <li>17h00 às 18h00 (VOINHO)</li>
                                 {/* <li>18h00 às 19h00 (combate/GAZZO)</li> */}
                             </ul>
                             </td>
@@ -286,7 +287,7 @@ function Modalities() {
                             <td>
                             <ul>
                                 <li>10h00 às 11h00 (VOINHO)</li>
-                                <li>16h00 às 17h00 (ALOÍSIO)</li>
+                                <li>17h00 às 18h00 (LEO IURY)</li>
                                 {/* <li>07h00 às 08h00</li>
                                 <li>18h00 às 19h00</li>
                                 <li>19h00 às 20h00</li> */}
@@ -305,8 +306,7 @@ function Modalities() {
                             <td>QUARTA-FEIRA</td>
                             <td>
                             <ul>
-                                <li>10h00 às 11h00 (VOINHO)</li>
-                                <li>16h00 às 17h00 (ALOÍSIO)</li>
+                                <li>17h00 às 18h00 (VOINHO)</li>
                                 {/* <li>18h00 às 19h00 (combate/GAZZO)</li> */}
                             </ul>
                             </td>
@@ -315,7 +315,7 @@ function Modalities() {
                             <td>QUINTA-FEIRA</td>
                             <td>
                             <ul>
-                                <li>16h00 às 17h00 (ALOÍSIO)</li>
+                                <li>17h00 às 18h00 (LEO IURY)</li>
                                 {/* <li>07h00 às 08h00</li>
                                 <li>18h00 às 19h00</li>
                                 <li>19h00 às 20h00</li> */}
@@ -334,8 +334,7 @@ function Modalities() {
                             <td>SEXTA-FEIRA</td>
                             <td>
                             <ul>
-                                <li>10h00 às 11h00 (VOINHO)</li>
-                                <li>16h00 às 17h00 (ALOÍSIO)</li>
+                                <li>17h00 às 18h00 (VOINHO)</li>
                                 {/* <li>18h00 às 19h00 (combate/GAZZO)</li> */}
                             </ul>
                             </td>
@@ -513,7 +512,7 @@ function Modalities() {
                             <td>
                             <ul>
                                 {/* <li>07h30 às 08h30 (VOINHO)</li> */}
-                                <li>10h30 às 11h30 (GUSTAVO CABEÇA)</li>
+                                <li>10h30 às 11h30 (VOINHO)</li>
                                 {/* <li>17h00 às 18h00 (VOINHO)</li> */}
                                 <li>20h00 às 21h00 (VOINHO)</li>
                             </ul>
@@ -543,7 +542,7 @@ function Modalities() {
                             <td>
                             <ul>
                                 {/* <li>07h30 às 08h30 (VOINHO)</li> */}
-                                <li>10h30 às 11h30 (GUSTAVO CABEÇA)</li>
+                                <li>10h30 às 11h30 (VOINHO)</li>
                                 {/* <li>17h00 às 18h00 (VOINHO)</li> */}
                                 <li>20h00 às 21h00 (VOINHO)</li>
                             </ul>
